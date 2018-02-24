@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RESTful_Messenger:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jersey-quickstart-webapp.war">
+      <element id="artifact" artifact-name="RESTful_Messenger:war exploded" />
+    </root>
+  </artifact>
+</component>
